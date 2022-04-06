@@ -1,2 +1,0 @@
-# Brain-Network-Measure
-This code computes absolute and normalized graph theory measures, including Brain Network Integration, Segregation, Small Worldness, Global and Local Efficiency, Degree, clustering coefficient, Plath Length, Modularity, Betweenness centrality, associativity, participation coefficient, Community Index, and many others. To run the program, you'll need to have the BCT toolbox in your MATLAB directory. 
